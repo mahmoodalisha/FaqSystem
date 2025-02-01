@@ -57,7 +57,7 @@ REACT_APP_RAPIDAPI_KEY=your rapid api key
 
 ## API Usage
 
-### Base URL: `http://localhost:3000/api/faqs`
+### Base URL: `http://localhost:8000/api/faqs`
 
 #### **Get All FAQs**
 ```http
