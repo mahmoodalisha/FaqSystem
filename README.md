@@ -93,6 +93,10 @@ POST /api/faqs
 - Push to GitHub: `git push origin feature-name`.
 - Open a Pull Request.
 
+![Screenshot 2025-02-01 140926](https://github.com/user-attachments/assets/de76e328-701a-4752-b716-a00a8b2eed5a) 
+
+![Screenshot 2025-02-01 140943](https://github.com/user-attachments/assets/e0eb9971-4bf1-4c0b-b613-f6e078239681)
+
 
 
 ## Contact
