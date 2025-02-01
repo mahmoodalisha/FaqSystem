@@ -34,9 +34,11 @@ Ensure you have the following installed:
 Create a `.env` file and add:
 ```sh
 PORT=8000
-MONGO_URI=your_mongodb_connection_string
+MONGO=your_mongodb_connection_string
 REDIS_HOST=localhost
 REDIS_PORT=6379
+REACT_APP_RAPIDAPI_HOST=your rapid api microsoft translator text url
+REACT_APP_RAPIDAPI_KEY=your rapid api key
 ```
 
 #### 4. Start the Backend Server
