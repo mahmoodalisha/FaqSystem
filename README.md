@@ -1,6 +1,6 @@
 # FAQ System
 
-A **FAQ System** built using **Express.js** for the backend and **React.js** for the frontend. It allows users to view frequently asked questions and admins to manage FAQs efficiently. The backend uses Redis for caching and supports multilingual translations.
+A **FAQ System** built using **Express.js** for the backend and **React.js** for the frontend. It allows users to view frequently asked questions and admins to manage FAQs efficiently. The backend uses Redis for caching and supports multilingual translations!
 
 ## Features
 - **RESTful API** for FAQ management
